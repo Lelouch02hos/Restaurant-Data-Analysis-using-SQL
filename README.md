@@ -326,9 +326,7 @@ Potential extensions include:
 
 **Data Analyst | Finance & Data Science**
 
-Interested in:
 
-`SQL` · `Python` · `Power BI` · `Excel` · `Data Analytics` · `Business Intelligence`
 
 ---
 
